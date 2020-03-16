@@ -6,3 +6,4 @@ Iris's Leal 301 Readings Notes
 * [Read 02, jQuery, Events, The DOM, and Pair Programming](read02.md)
 * [Read 03, Handlebars, Flexbox](read03.md)
 * [Read 04, CSS Grid Garden ](read04.md)
+* [Read: 06 - Node, Express, and APIs ](read06.md)
