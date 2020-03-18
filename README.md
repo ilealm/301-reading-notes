@@ -8,3 +8,4 @@ Iris's Leal 301 Readings Notes
 * [Read 04, CSS Grid Garden ](read04.md)
 * [Read: 06 - Node, Express, and APIs ](read06.md)
 * [Read:07 - What Google Learned From Its Quest to Build the Perfect Team](read07.md)
+* [Read:08 - SQL](read08.md)

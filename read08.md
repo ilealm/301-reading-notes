@@ -1,4 +1,4 @@
-# Read 07, SQL
+# Read 08, SQL
 
 
 * Stands for Structured Query Language.
