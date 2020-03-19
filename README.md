@@ -9,3 +9,4 @@ Iris's Leal 301 Readings Notes
 * [Read: 06 - Node, Express, and APIs ](read06.md)
 * [Read:07 - What Google Learned From Its Quest to Build the Perfect Team](read07.md)
 * [Read:08 - SQL](read08.md)
+* [Read:09 - Concepts of Functional Programming in Javascript](read09.md)
