@@ -12,3 +12,4 @@ Iris's Leal 301 Readings Notes
 * [Read:09 - Concepts of Functional Programming in Javascript](read09.md)
 * [Read: 10 - The Call Stack and Debugging](read10.md)
 * [Read: 11 - ejs](read11.md)
+* [Read: 12 - EJS Partials](read12.md)
