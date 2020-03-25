@@ -13,3 +13,5 @@ Iris's Leal 301 Readings Notes
 * [Read: 10 - The Call Stack and Debugging](read10.md)
 * [Read: 11 - ejs](read11.md)
 * [Read: 12 - EJS Partials](read12.md)
+* [Read: 13 - Sending form data](read13.md)
+
