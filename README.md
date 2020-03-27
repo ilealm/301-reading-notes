@@ -15,4 +15,4 @@ Iris's Leal 301 Readings Notes
 * [Read: 12 - EJS Partials](read12.md)
 * [Read: 13 - Sending form data](read13.md)
 * [Read: 14 Database Normalization Explained in Simple English - Sending form data](read14.md)
-* [Read: 15 - Diversity](reading15.md)
+* [Read: 15 - Diversity](read15.md)

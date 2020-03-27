@@ -18,4 +18,3 @@
 * Diverse companies perform better.
 * Companies maintain great talent.
 * Diverse companies can better serve a diverse user base.
-*  
